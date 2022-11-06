@@ -51,7 +51,3 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawkrin&show_icons=true&locale=en&layout=compact" alt="hawkrin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hawkrin&show_icons=true&locale=en" alt="hawkrin" /></p>
