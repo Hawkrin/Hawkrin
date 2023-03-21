@@ -5,30 +5,30 @@
 
 
 ## Languages:
-Java
-JavaScript
-C
-C++
-C#
-Elixir
-Assembly
-Bash
+Java,
+JavaScript,
+C,
+C++,
+C#,
+Elixir,
+Assembly,
+Bash,
 Arduino
 
 
 ## Tools and extras:
  
- React
- Vue
+ React,
+ Vue,
  Spring
  
- Azure
- Firebase
- Heroku
+ Azure,
+ Firebase,
+ Heroku,
  AWS
  
- PosgreSQL
- MySQL
+ PosgreSQL,
+ MySQL,
  MongoDB
  
 
