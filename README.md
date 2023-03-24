@@ -12,6 +12,8 @@ Java, JavaScript, C, C++, C#, Elixir, Assembly, Bash, Arduino
  
  React, Vue, Spring
  
+ Redux, Vuex, ContextTheme
+ 
  Azure, Firebase, Heroku, AWS
  
  PosgreSQL, MySQL, MongoDB
