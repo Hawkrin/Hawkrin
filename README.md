@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Malcolm</h2>
-<p align="center">A computer scientist from Sweden. Driven by problem solving and customer satisfaction. Most comfortable with Java and JavaScript but below is a list of languages and tools which I've encountered and worked with.</p>
+<p align="center">A computer engineer from Sweden. Driven by problem solving and customer satisfaction. Most comfortable with Java and JavaScript but below is a list of languages and tools which I've encountered and worked with.</p>
 
 
 
