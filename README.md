@@ -10,7 +10,7 @@ Java, JavaScript, C, C++, C#, Elixir, Assembly, Bash, Arduino
 
 ## Tools and extras:
  
- React, Vue, Spring
+ React, Vue, Spring, EFCore
  
  Redux, Vuex, ContextTheme
  
