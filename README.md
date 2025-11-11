@@ -7,18 +7,6 @@
 ## Languages:
 Java, JavaScript, C, C++, C#, Elixir, Assembly, Bash, Arduino, Rell
 
-
-## Tools and extras:
- 
- React, Vue, Spring, EFCore
- 
- Redux, Vuex, ContextTheme
- 
- Azure, Firebase, Heroku, AWS
- 
- PosgreSQL, MySQL, MongoDB
- 
-
   
 <h3 align="left">Connect with me:</h3>
 
